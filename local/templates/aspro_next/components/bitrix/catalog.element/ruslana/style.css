@@ -1,0 +1,10 @@
+.hidden_bck {
+    height: 86px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.display_bck {
+    height: auto;
+    overflow-x: unset;
+    overflow-y: unset;
+}
